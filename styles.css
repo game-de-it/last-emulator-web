@@ -502,6 +502,12 @@ h3 {
   background: var(--panel);
 }
 
+.download-link:hover,
+.handheld-links a:hover {
+  border-color: rgba(129, 230, 255, 0.46);
+  background: rgba(255, 255, 255, 0.08);
+}
+
 .download-link span {
   font-weight: 700;
 }
@@ -511,9 +517,52 @@ h3 {
   font-size: 0.88rem;
 }
 
-.download-link[aria-disabled="true"] {
-  cursor: not-allowed;
-  opacity: 0.78;
+.download-link.subdued {
+  min-height: 58px;
+  background: rgba(255, 255, 255, 0.045);
+}
+
+.handheld-note {
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.045);
+}
+
+.handheld-note h3 {
+  margin: 0 0 8px;
+  font-size: 1.15rem;
+}
+
+.handheld-note p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.75;
+}
+
+.handheld-note p a {
+  color: var(--cyan);
+  font-weight: 700;
+}
+
+.handheld-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.handheld-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  padding: 6px 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.035);
+  font-size: 0.82rem;
 }
 
 .site-footer {
@@ -536,6 +585,11 @@ h3 {
 .footer-credit {
   color: #8792ad;
   font-size: 0.86rem;
+}
+
+.footer-credit a {
+  color: var(--cyan);
+  font-weight: 700;
 }
 
 .site-footer strong {

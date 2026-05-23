@@ -341,36 +341,54 @@
         <div class="section-inner download-layout">
           <div class="section-copy">
             <p class="section-label">Download</p>
-            <h2 id="download-title">各プラットフォーム向けに配布予定</h2>
+            <h2 id="download-title">v1.0.0 配布中</h2>
             <p>
-              配布ファイルはGitHub Releasesに配置し、このページから最新版へリンクする想定です。
-              現在は公開準備中のため、ボタンのリンク先だけ差し替えれば使える状態にしています。
+              Windows、macOS、Linux、Android向けのビルドをGitHub Releasesで公開しています。
+              ダウンロード後、各環境に合わせて展開またはインストールしてください。
             </p>
             <dl class="spec-list">
               <div><dt>ジャンル</dt><dd>SFビジュアルノベル</dd></div>
               <div><dt>制作ツール</dt><dd>PVNM - Palette Visual Novel Maker</dd></div>
               <div><dt>想定プレイ時間</dt><dd>約2時間</dd></div>
-              <div><dt>対応予定</dt><dd>Windows / macOS / Linux / Android</dd></div>
-              <div><dt>配布方法</dt><dd>GitHub Releases</dd></div>
+              <div><dt>対応環境</dt><dd>Windows / macOS / Linux / Android</dd></div>
+              <div><dt>最新版</dt><dd>v1.0.0</dd></div>
             </dl>
           </div>
           <div class="download-panel" aria-label="ダウンロード一覧">
-            <a class="download-link" href="#" aria-disabled="true">
+            <a class="download-link" href="https://github.com/game-de-it/last-emulator-web/releases/download/v1.0.0/LastEmulator-windows.zip">
               <span>Windows</span>
-              <strong>Coming soon</strong>
+              <strong>Download zip</strong>
             </a>
-            <a class="download-link" href="#" aria-disabled="true">
+            <a class="download-link" href="https://github.com/game-de-it/last-emulator-web/releases/download/v1.0.0/LastEmulator-mac.zip">
               <span>macOS</span>
-              <strong>Coming soon</strong>
+              <strong>Download zip</strong>
             </a>
-            <a class="download-link" href="#" aria-disabled="true">
+            <a class="download-link" href="https://github.com/game-de-it/last-emulator-web/releases/download/v1.0.0/LastEmulator-Linux.zip">
               <span>Linux</span>
-              <strong>Coming soon</strong>
+              <strong>Download zip</strong>
             </a>
-            <a class="download-link" href="#" aria-disabled="true">
+            <a class="download-link" href="https://github.com/game-de-it/last-emulator-web/releases/download/v1.0.0/LastEmulator-release.apk">
               <span>Android</span>
-              <strong>Coming soon</strong>
+              <strong>Download apk</strong>
             </a>
+            <a class="download-link subdued" href="https://github.com/game-de-it/last-emulator-web/releases/download/v1.0.0/SHA256SUMS.txt">
+              <span>SHA256SUMS</span>
+              <strong>Checksums</strong>
+            </a>
+            <div class="handheld-note">
+              <h3>Handheld Linux</h3>
+              <p>
+                MustardOS / plumOS-RN では、Linux版に加えて各OS向けの
+                requirementsスクリプトを使います。詳しい配置場所と起動手順は
+                <a href="https://github.com/game-de-it/last-emulator-web/releases/tag/v1.0.0">v1.0.0 Release Notes</a>
+                を確認してください。
+              </p>
+              <div class="handheld-links" aria-label="ハンドヘルドLinux向けファイル">
+                <a href="https://github.com/game-de-it/last-emulator-web/releases/download/v1.0.0/requirements.txt">requirements.txt</a>
+                <a href="https://github.com/game-de-it/last-emulator-web/releases/download/v1.0.0/requirements-MustardOS.sh">MustardOS script</a>
+                <a href="https://github.com/game-de-it/last-emulator-web/releases/download/v1.0.0/requirements-plumOS-RN.sh">plumOS-RN script</a>
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -384,6 +402,7 @@
       <div class="footer-credit" aria-label="制作クレジット">
         <span>Produced by <strong>moto</strong></span>
         <span>&copy; 2026 game_de_it</span>
+        <span>Contact: <a href="https://x.com/0_game_it">@0_game_it</a></span>
       </div>
       <a href="#top">Back to top</a>
     </footer>
