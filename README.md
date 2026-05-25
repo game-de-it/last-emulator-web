@@ -21,3 +21,9 @@ https://game-de-it.github.io/last-emulator-web/
 Produced by **moto**
 
 © 2026 game_de_it
+
+## Copyright and Notices
+
+- [COPYRIGHT.txt](COPYRIGHT.txt)
+- [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
+- [CREDITS.md](CREDITS.md)

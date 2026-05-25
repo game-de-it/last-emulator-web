@@ -579,7 +579,8 @@ h3 {
 }
 
 .handheld-note,
-.streaming-note {
+.streaming-note,
+.license-note {
   padding: 18px;
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -587,13 +588,15 @@ h3 {
 }
 
 .handheld-note h3,
-.streaming-note h3 {
+.streaming-note h3,
+.license-note h3 {
   margin: 0 0 8px;
   font-size: 1.15rem;
 }
 
 .handheld-note p,
-.streaming-note p {
+.streaming-note p,
+.license-note p {
   margin: 0;
   color: var(--muted);
   font-size: 0.92rem;

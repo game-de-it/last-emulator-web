@@ -1,0 +1,17 @@
+Last Emulator
+
+Produced by moto
+Copyright (c) 2026 game_de_it. All rights reserved.
+
+本作品のシナリオ、画像、音声、音楽、キャラクター、ロゴ、タイトル、
+ゲームデータ、その他の作品内容は、権利者に帰属します。
+
+権利者の許可なく、作品素材またはゲームデータそのものを複製、再配布、
+改変、販売、または素材として商用利用することを禁止します。
+
+SNS投稿、実況配信、プレイ動画、レビュー動画などについては、
+公式サイトに掲載された配信・動画投稿ガイドラインの範囲で自由に公開できます。
+
+This game was created with PVNM - Palette Visual Novel Maker.
+Runtime components and third-party software may be distributed under their own
+licenses. See THIRD_PARTY_NOTICES.md for details.
