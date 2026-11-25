@@ -9,6 +9,11 @@ Official website for **Last Emulator**, a story-driven science fiction visual no
 
 https://game-de-it.github.io/last-emulator-web/
 
+The website has pages in Japanese, English, Simplified Chinese, Indonesian,
+Brazilian Portuguese, Latin American Spanish, Filipino, Vietnamese, and Korean.
+Edit the site layout in `_site_template.html` and translations in `_locales/`.
+Run `python3 _build_site.py` to regenerate the published HTML before committing.
+
 ## Game
 
 - Genre: SF visual novel
