@@ -820,5 +820,16 @@ html[lang="ko"] {
 
   .brand {
     gap: 6px;
+    flex: 0 0 auto;
+  }
+
+  .language-switcher {
+    flex: 0 1 auto;
+    min-width: 0;
+  }
+
+  .language-switcher summary {
+    max-width: none;
+    overflow-wrap: anywhere;
   }
 }
