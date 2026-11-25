@@ -6,7 +6,7 @@ from string import Template
 
 ROOT = Path(__file__).resolve().parent
 SITE_URL = "https://game-de-it.github.io/last-emulator-web/"
-RELEASE_VERSION = "1.0.3"
+RELEASE_VERSION = "1.0.4"
 RELEASE_REPO = "https://github.com/game-de-it/last-emulator-web"
 
 LANGUAGES = [

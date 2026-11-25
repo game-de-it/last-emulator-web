@@ -87,6 +87,7 @@
   "gallery_alt_8": "物語の一場面",
   "gallery_alt_9": "物語の一場面",
   "download_intro": "Windows、macOS、Linux、Android向けのビルドをGitHub Releasesで公開しています。 ダウンロード後、各環境に合わせて展開またはインストールしてください。",
+  "game_language_note": "初回起動時は英語で表示されます。日本語に切り替えるには、タイトル画面で Options → Language → 日本語 を選びます。",
   "spec_genre": "ジャンル",
   "spec_engine": "制作ツール",
   "spec_duration": "想定プレイ時間",

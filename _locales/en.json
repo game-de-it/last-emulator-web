@@ -87,6 +87,7 @@
   "gallery_alt_8": "A scene from the story",
   "gallery_alt_9": "A scene from the story",
   "download_intro": "Windows, macOS, Linux, and Android builds are available on GitHub Releases. Extract or install the download for your platform.",
+  "game_language_note": "The game starts in English on first launch. To choose another language, open Options → Language from the title screen.",
   "spec_genre": "Genre",
   "spec_engine": "Created with",
   "spec_duration": "Estimated play time",

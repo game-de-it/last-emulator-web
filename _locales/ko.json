@@ -87,6 +87,7 @@
   "gallery_alt_8": "이야기의 한 장면",
   "gallery_alt_9": "이야기의 한 장면",
   "download_intro": "Windows, macOS, Linux, Android 빌드를 GitHub Releases에서 받을 수 있습니다. 사용하는 환경에 맞는 파일의 압축을 풀거나 설치해 주세요.",
+  "game_language_note": "처음 실행하면 게임이 영어로 표시됩니다. 한국어로 바꾸려면 타이틀 화면에서 Options → Language → 한국어를 선택하세요.",
   "spec_genre": "장르",
   "spec_engine": "제작 도구",
   "spec_duration": "예상 플레이 시간",

@@ -559,6 +559,16 @@ h3 {
   background: var(--panel);
 }
 
+.game-language-note {
+  margin: 0;
+  padding: 12px 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--ink);
+  font-size: 0.9rem;
+}
+
 .download-link:hover,
 .handheld-links a:hover {
   border-color: rgba(129, 230, 255, 0.46);

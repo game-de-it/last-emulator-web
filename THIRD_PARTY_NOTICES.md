@@ -63,7 +63,7 @@ redistributing generated applications.
 
 ## Fonts in the Multilingual Release
 
-Last Emulator 1.0.3 bundles Noto Sans, Noto Sans CJK SC, and Noto Sans KR
+Multilingual builds of Last Emulator bundle Noto Sans, Noto Sans CJK SC, and Noto Sans KR
 for its localized game text. These fonts are distributed under the SIL Open
 Font License 1.1. The game packages include the font license files alongside
 the fonts in `assets/fonts/game-locales/`.
